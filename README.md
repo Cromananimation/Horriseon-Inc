@@ -15,7 +15,7 @@ coding is a struggle
 
 ## Usage
 
-go this link and check it out [] ()
+go this link and check it out [link to site] (https://cromananimation.github.io/Horriseon-Inc/)  
 ```md
 ![alt text](assets/images/screenshot.png)
 ```
