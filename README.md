@@ -15,7 +15,7 @@ coding is a struggle
 
 ## Usage
 
-go this link and check it out [link to site] (https://cromananimation.github.io/Horriseon-Inc/)  
+go this link and check it out [link to site](https://cromananimation.github.io/Horriseon-Inc/)  
 
 ![page preview](./assets/images/classPro%20-%20Copy.png)
 
